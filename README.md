@@ -1,3 +1,7 @@
-npm install
+# Nombre
+RONALDO OCAMPO SOZA
 
-npm run dev
+# Link github
+
+# Link netlify
+
